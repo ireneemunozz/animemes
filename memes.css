@@ -1,0 +1,33 @@
+.titulo{
+border-top: solid rgb(76, 212, 199);
+border-bottom: solid rgb(76, 212, 199);
+font-family: cursive;
+}
+
+
+body{
+text-align: center;
+background-color:rgb(217, 240, 255);
+
+}
+
+.img-fluid{
+height: 90%;
+width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

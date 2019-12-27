@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+background-color: rgb(217, 240, 255);
+}
+
+h1 {
+    font-family: cursive;
+color: black;
+background-image: url("../img/abejas.png");
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+
+.card { border: solid rgb(58, 56, 56);}
+
+.col-4 {padding-top: 20px;
+padding-bottom: 20px;}
+
+.final {padding-top: 20px;}
+
+.container {border:black;} 
+
+.carousel { padding-top: 20px;
+padding-bottom: 30px;}
+
+.btn {
+background-color: rgb(157, 229, 247);
+color: white;
+}
